@@ -1,0 +1,1 @@
+console.log("Gustavo, na verdade este é o script do body")

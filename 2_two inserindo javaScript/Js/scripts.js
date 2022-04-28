@@ -1,0 +1,1 @@
+console.log("Gustavo, aqui é o script do head!");
